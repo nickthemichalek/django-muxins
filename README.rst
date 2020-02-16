@@ -15,3 +15,13 @@ Quick start
     ]
 
 2. Run `python manage.py migrate`. Optionally run `python manage.py migrate --sync-db`.
+
+
+License
+-----------
+This project is licensed under the BSD 3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+Authors
+-------
+`Nick Michalek <https://nickmichalek.com>`_
